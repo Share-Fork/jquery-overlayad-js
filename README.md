@@ -12,7 +12,7 @@
 
 ## Demo
 
-[http://jsrun.it/maechabin/kPJT](http://jsrun.it/maechabin/kPJT)
+[http://support.moba8.net/tools/overlayad/demo.html](http://support.moba8.net/tools/overlayad/demo.html)
 
 ## Download
 
